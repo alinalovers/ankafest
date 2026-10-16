@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33537079/README.md)
+[README.md](https://alinalovers.github.com/user-attachments/files/33537079/README.md)
 # ANKAFEST 2027 — Festival Kayıt, QR Bilet ve Geçiş Otomasyonu
 
 Havacılık, uzay ve teknoloji festivali için uçtan uca kayıt ve alan yönetimi sistemi. Katılımcı tek bir formu doldurur; sistem kimlik doğrulamasını yapar, kişiye özel QR bilet üretir, PDF bileti e-posta ile gönderir, festival alanındaki giriş-çıkışları turnike ekranı üzerinden kaydeder ve yönetime anlık rapor sunar.
